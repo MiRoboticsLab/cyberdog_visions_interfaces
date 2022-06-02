@@ -1,0 +1,6 @@
+int32 map_id
+string map_name
+---
+Reply reply
+---
+int32 progress
