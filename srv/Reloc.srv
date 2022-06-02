@@ -1,0 +1,6 @@
+int32 reloc_id
+---
+Reply reply
+int32 reloc_id
+bool is_verified
+geometry_msgs/PoseStamped pose
