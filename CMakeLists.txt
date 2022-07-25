@@ -27,6 +27,7 @@ find_package(geometry_msgs REQUIRED)
 rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/Reply.msg"
   "msg/MilocStatus.msg"
+  "msg/Metadata.msg"
   "srv/Reloc.srv"
   "srv/MapConfig.srv"
   "action/MapParam.action"
