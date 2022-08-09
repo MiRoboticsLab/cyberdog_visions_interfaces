@@ -3,4 +3,5 @@ int32 reloc_id
 Reply reply
 int32 reloc_id
 bool is_verified
+float32 confidence
 geometry_msgs/PoseStamped pose
