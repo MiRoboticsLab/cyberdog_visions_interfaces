@@ -31,6 +31,8 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "srv/Reloc.srv"
   "srv/MapConfig.srv"
   "srv/MilocMapHandler.srv"
+  "srv/MapParam.srv"
+  "srv/UpdateParam.srv"
   "action/MapParam.action"
   "action/UpdateParam.action"
   DEPENDENCIES geometry_msgs)
