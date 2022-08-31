@@ -1,0 +1,4 @@
+int32 map_id
+---
+int32 code
+string message
