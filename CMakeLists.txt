@@ -28,6 +28,8 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/Reply.msg"
   "msg/MilocStatus.msg"
   "msg/Metadata.msg"
+  "msg/Vector2f.msg"
+  "msg/RangeData.msg"
   "srv/Reloc.srv"
   "srv/MapConfig.srv"
   "srv/MilocMapHandler.srv"
