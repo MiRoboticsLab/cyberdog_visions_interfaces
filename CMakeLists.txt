@@ -31,6 +31,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/Vector2f.msg"
   "msg/RangeData.msg"
   "srv/Reloc.srv"
+  "srv/FinishMap.srv"
   "srv/MapConfig.srv"
   "srv/MilocMapHandler.srv"
   "srv/MapParam.srv"
